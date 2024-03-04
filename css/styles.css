@@ -4,6 +4,12 @@ body{
   img{
     height: 155px;
   }
+  h1{
+    color: brown;
+  }
+  h3{
+    color: burlywood;
+  }
   hr{ 
     border-style: none;
     border-top-style: dotted;
