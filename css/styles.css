@@ -1,11 +1,11 @@
 body{
-    background-color: powderblue;
+    background-color:  hwb(152deg 0% 58% / 70%);
   }
   img{
     height: 155px;
   }
   h1{
-    color: brown;
+    color: #7fffd4	;
   }
   h3{
     color: burlywood;
@@ -13,7 +13,10 @@ body{
   hr{ 
     border-style: none;
     border-top-style: dotted;
-    border-color: grey;
+    border-color: brown;
     border-width: 5px;
     width: 5%;
+  }
+  a{
+    color: burlywood ;
   }
